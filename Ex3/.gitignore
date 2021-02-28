@@ -1,0 +1,8 @@
+CV
+build/
+CMakeLists.txt.user
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+output.png

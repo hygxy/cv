@@ -1,0 +1,9 @@
+build/
+CMakeLists.txt.user
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+extr.yml
+intr1.yml
+intr2.yml
